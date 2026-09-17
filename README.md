@@ -1,4 +1,4 @@
-# 📝 T0-Do-List
+# 📝 To-Do-List
 
 A simple and clean **To-Do List web application** built using **HTML, CSS, and JavaScript**.
 
@@ -19,7 +19,11 @@ A simple and clean **To-Do List web application** built using **HTML, CSS, and J
 
 🔗 **[View TaskFlow Live](https://inthusha20241647-commits.github.io/To-Do-List/)**
 
-## 📸 Preview
+## 📸 Screenshot of To-do-task (
 
-A simple interface for adding and managing daily tasks.
+### 🖥️ Screenshot 1
+![To-Do List Screenshot 1](images/add-task.png)
+
+### 🖥️ Screenshot 2
+![To-Do List Screenshot 2](images/empty_input_validation.png)
 
