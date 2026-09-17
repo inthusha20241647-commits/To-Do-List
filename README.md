@@ -25,5 +25,5 @@ A simple and clean **To-Do List web application** built using **HTML, CSS, and J
 ![To-Do List Screenshot 1](images/add-task.png)
 
 ### 🖥️ Screenshot 2
-![To-Do List Screenshot 2](images/empty_input_validation.png)
+![To-Do List Screenshot 2](images/empty-input-validation.png)
 
