@@ -91,3 +91,58 @@ body {
 #taskname {
   font-family: "poppins", sans-serif;
 }
+
+@media (max-width: 600px) {
+  body {
+    height: auto;
+    min-height: 100vh;
+  }
+
+  .container {
+    position: relative;
+    top: auto;
+    left: auto;
+    transform: none;
+    width: calc(100% - 24px);
+    min-width: 0;
+    margin: 24px auto;
+    padding: 18px 14px;
+  }
+
+  .newtask {
+    gap: 10px;
+    padding: 18px 12px;
+  }
+
+  .newtask input {
+    flex: 1;
+    min-width: 0;
+    width: auto;
+  }
+
+  .newtask button {
+    flex-shrink: 0;
+    width: 64px;
+  }
+
+  #tasks {
+    margin-top: 24px;
+    padding: 18px 12px;
+  }
+
+  .task {
+    gap: 12px;
+    padding: 18px 12px;
+  }
+
+  #taskname {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+
+  .delete {
+    flex-shrink: 0;
+    width: auto;
+    min-width: 64px;
+  }
+}
