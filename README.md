@@ -8,14 +8,18 @@ A simple and responsive To-Do List application built using HTML, CSS, and JavaSc
 
 ## 📸 Screenshots
 
-### 🖥️ Desktop View
+📸 Screenshots
+
+🖥️ Desktop View
 
 <p align="center">
-  <img src="./images/add-task.png" alt="To-Do List Desktop View" width="800">
+  <img src="./images/desktop.png" alt="To-Do List Desktop View" width="850">
 </p>
 
+📱 Mobile View
+
 <p align="center">
-  <img src="./images/input-validation.png" alt="To-Do List Mobile View" width="800">
+  <img src="./images/mobile.png" alt="To-Do List Mobile View" width="400">
 </p>
 
 ## ✨ Features
