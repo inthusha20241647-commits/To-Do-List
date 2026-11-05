@@ -1,6 +1,6 @@
-# 📝 To-Do List – Task Management Website
+# 📝 To-Do List – Task Management App
 
-A simple To-Do List web application built using HTML, CSS, and JavaScript. This project focuses on creating an interactive interface for managing daily tasks while practising JavaScript DOM manipulation and event handling.
+A simple and responsive To-Do List application built using HTML, CSS, and JavaScript. It allows users to add tasks, view their task list, and delete individual tasks through an interactive interface.
 
 ## 🌐 Live Demo
 
@@ -11,28 +11,29 @@ A simple To-Do List web application built using HTML, CSS, and JavaScript. This 
 ### 🖥️ Desktop View
 
 <p align="center">
-  <img src="./images/add-task.png" alt="To-Do List Desktop View" width="850">
+  <img src="./images/desktop.png" alt="To-Do List Desktop View" width="800">
 </p>
 
-### 📱 Mobile View
-
 <p align="center">
-  <img src="./images/input-validation.png" alt="To-Do List Mobile View" width="350">
+  <img src="./images/mobile.png" alt="To-Do List Mobile View" width="800">
 </p>
 
 ## ✨ Features
 
-- ➕ **Task Management:** Add new tasks to the list.
-- ✅ **Task Completion:** Mark tasks as completed.
-- 🗑️ **Task Deletion:** Remove tasks from the list.
-- 🎨 **User Interface:** Provides a simple and clean interface.
-- 📱 **Responsive Layout:** Adapts the interface to different screen sizes.
+- ➕ **Add Tasks:** Allows users to add new tasks to the list.
+- ⚠️ **Input Validation:** Displays an alert when users try to add an empty task.
+- 🗑️ **Delete Tasks:** Allows users to remove individual tasks.
+- 📋 **Dynamic Task Display:** Displays newly added tasks dynamically using JavaScript.
+- 📱 **Responsive Design:** Adapts the layout for smaller mobile screens.
+- 🎨 **Gradient Background:** Uses a blue gradient background for visual presentation.
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
+- CSS Flexbox
+- CSS Media Queries
 
 ## 📂 Project Structure
 
@@ -62,12 +63,13 @@ To-Do-List/
 
 ## 🎯 Learning Objectives
 
-- Understand HTML page structure.
-- Practise CSS styling and layout design.
+- Understand HTML structure and form input elements.
+- Practise CSS styling and Flexbox layouts.
 - Learn JavaScript DOM manipulation.
-- Handle user interactions using event listeners.
-- Develop interactive frontend functionality.
-- Practise building a small web application.
+- Handle click events using event listeners and event handlers.
+- Dynamically create and remove HTML elements.
+- Implement basic input validation.
+- Practise responsive web design using CSS media queries.
 
 ---
 
