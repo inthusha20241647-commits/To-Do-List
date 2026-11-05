@@ -4,7 +4,7 @@ A simple and responsive To-Do List application built using HTML, CSS, and JavaSc
 
 ## 🌐 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=github)](YOUR_LIVE_DEMO_URL)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=github)](https://inthusha20241647-commits.github.io/To-Do-List/)
 
 ## 📸 Screenshots
 
