@@ -1,29 +1,74 @@
-# 📝 To-Do-List
+# 📝 To-Do List – Task Management Website
 
-A simple and clean **To-Do List web application** built using **HTML, CSS, and JavaScript**.
+A simple To-Do List web application built using HTML, CSS, and JavaScript. This project focuses on creating an interactive interface for managing daily tasks while practising JavaScript DOM manipulation and event handling.
+
+## 🌐 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=github)](YOUR_LIVE_DEMO_URL)
+
+## 📸 Screenshots
+
+### 🖥️ Desktop View
+
+<p align="center">
+  <img src="./images/desktop.png" alt="To-Do List Desktop View" width="850">
+</p>
+
+### 📱 Mobile View
+
+<p align="center">
+  <img src="./images/mobile.png" alt="To-Do List Mobile View" width="350">
+</p>
 
 ## ✨ Features
 
-* ➕ Add new tasks
-* 🗑️ Delete tasks
-* ⚠️ Empty task validation
-* 🎨 Simple and responsive UI
+- ➕ **Task Management:** Add new tasks to the list.
+- ✅ **Task Completion:** Mark tasks as completed.
+- 🗑️ **Task Deletion:** Remove tasks from the list.
+- 🎨 **User Interface:** Provides a simple and clean interface.
+- 📱 **Responsive Layout:** Adapts the interface to different screen sizes.
 
-## 🛠️ Technologies
+## 🛠️ Technologies Used
 
-* HTML
-* CSS
-* JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
-## 🚀 Live Demo
+## 📂 Project Structure
 
-🔗 **[View TaskFlow Live](https://inthusha20241647-commits.github.io/To-Do-List/)**
+```text
+To-Do-List/
+│
+├── images/
+│   ├── desktop.png
+│   └── mobile.png
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
 
-## 📸 Screenshot of To-do-task (
+## 🚀 How to Run Locally
 
-### 🖥️ Screenshot 1
-![To-Do List Screenshot 1](images/add-task.png)
+1. Clone the repository:
 
-### 🖥️ Screenshot 2
-![To-Do List Screenshot 2](images/input-validation.png)
+   ```bash
+   git clone https://github.com/inthusha20241647-commits/To-Do-List.git
+   ```
 
+2. Open the project folder in VS Code.
+3. Open `index.html` in your browser or use the Live Server extension.
+
+## 🎯 Learning Objectives
+
+- Understand HTML page structure.
+- Practise CSS styling and layout design.
+- Learn JavaScript DOM manipulation.
+- Handle user interactions using event listeners.
+- Develop interactive frontend functionality.
+- Practise building a small web application.
+
+---
+
+*This project is part of my continuous learning journey in frontend web development.*
